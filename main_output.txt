@@ -1,0 +1,69 @@
+Welcome to the website program
+Please enter in your name: 
+Andrew
+Welcome Andrew, to the Website program
+Please select form the following catagories or type checkout to proceed to checkout
+Jewels, Movies, Food
+Enter which the name of the catagories you want to look through: 
+Jewels
+Item: Ruby
+Amount in Stock: 12
+Price: 12.2
+Item: Emerald
+Amount in Stock: 15
+Price: 514.0
+Item: Quartz
+Amount in Stock: 0
+Price: 120.0
+Item: Sapphire
+Amount in Stock: 22
+Price: 538.0
+Please enter in the name of the item you want or type exit to return to the main screen: 
+Sapphire
+Please enter in the amount of the item you want: 
+15
+Please enter in the name of the item you want or type exit to exit: 
+Ruby
+Please enter in the amount of the item you want: 
+10
+Please enter in the name of the item you want or type exit to exit: 
+exit
+Enter which the name of the catagories you want to look through: 
+Movies
+Item: Avengers
+Amount in Stock: 6
+Price: 12.2
+Item: Twlight
+Amount in Stock: 10
+Price: 20.0
+Item: Halloween
+Amount in Stock: 15
+Price: 20.0
+Item: Godzilla
+Amount in Stock: 2
+Price: 10.0
+Please enter in the name of the item you want or type exit to return to the main screen: 
+Godzilla
+Please enter in the amount of the item you want: 
+1
+Please enter in the name of the item you want or type exit to exit: 
+exit
+Enter which the name of the catagories you want to look through: 
+exit
+Sapphire
+Price: 8070.0
+Ruby
+Price: 122.0
+Godzilla
+Price: 10.0
+Total: 8202.0
+Please enter in your email address: 
+Andrewbansk@gmail.com
+Please enter in a shipping address for the items: 
+1811 washighton Drive
+The items will be ship to this address: 1811 washighton Drive
+Confromation email has been sent to this email address: Andrewbansk@gmail.com
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal

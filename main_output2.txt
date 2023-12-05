@@ -1,0 +1,46 @@
+Welcome to the website program
+Please enter in your name: 
+Andrew
+Welcome Andrew, to the Website program
+Please select form the following catagories or type checkout to proceed to checkout
+Jewels, Movies, Food
+Enter which the name of the catagories you want to look through: 
+Food
+Item: Pepsi
+Amount in Stock: 50
+Price: 2.0
+Item: Ramen
+Amount in Stock: 12
+Price: 1.25
+Item: Steak
+Amount in Stock: 15
+Price: 100.0
+Item: Fries
+Amount in Stock: 22
+Price: 10.0
+Please enter in the name of the item you want or type exit to return to the main screen: 
+Steak
+Please enter in the amount of the item you want: 
+20
+Please enter an amount that is less than the amount in Stock
+Please enter in the name of the item you want or type exit to exit: 
+Steak
+Please enter in the amount of the item you want: 
+15
+Please enter in the name of the item you want or type exit to exit: 
+exit
+Enter which the name of the catagories you want to look through: 
+exit
+Steak
+Price: 1500.0
+Total: 1500.0
+Please enter in your email address: 
+andrewbanks@gmail.com
+Please enter in a shipping address for the items: 
+1811 Wasthigton drive
+The items will be ship to this address: 1811 Wasthigton drive
+Confromation email has been sent to this email address: andrewbanks@gmail.com
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
